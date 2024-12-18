@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Receptionist files\Edit_Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receptionist files\Receive_Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receptionist files\Receptionist_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receptionist files\Register_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receptionist files\Service_Submission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
