@@ -1,4 +1,4 @@
-<img width="813" alt="Screenshot 2024-12-18 at 5 08 07 AM" src="https://github.com/user-attachments/assets/24b3e4c9-8c32-42bf-b0fa-59fc02697a1d" /># Laptop-Repair-Management-System
+# Laptop-Repair-Management-System
 a standalone desktop application built using C# and integrated with a database. The system is designed to manage and streamline laptop repair operations for a repair shop in Kuala Lumpur, ensuring seamless interaction between Receptionists, Technicians, Customers, and the Admin.
 
 ---
